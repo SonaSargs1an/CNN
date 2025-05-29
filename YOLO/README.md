@@ -60,4 +60,3 @@ pip install -q ultralytics tqdm lxml matplotlib albumentations
 | `python demo.py --source image.jpg`    | Օգտագործել պատկերային ֆայլ              |
 | `python demo.py --source folder/`      | Վերլուծել պատկերի ֆայլերի պանակը        |
 
-💡 Կարող եք ավելացնել նաև այլ պարամետրեր՝ օրինակ `--conf 0.5`՝ վստահության շեմը սահմանելու համար։
