@@ -11,18 +11,17 @@ pip install -q ultralytics tqdm lxml matplotlib albumentations
 
 
 ---
-
 ## Ուսուցման մետրիկաներ
 
-| Մետրիկա                   | Արժեք      |
-| ------------------------- | ---------- |
-| Best mAP@0.5              | **0.5505** |
-| Final Precision           | 0.5987     |
-| Final Recall              | 0.5026     |
-| Final Approx. Accuracy    | 0.5507     |
-| Final Validation Box Loss | 1.1941     |
-| Final Validation Cls Loss | 1.5290     |
-| Final Validation DFL Loss | 1.3453     |
+| Մետրիկա                    | Արժեք      |
+|----------------------------|------------|
+| **Best mAP@0.5**           | **0.5505** |
+| Final Precision            | 0.5987     |
+| Final Recall               | 0.5026     |
+| Final Approx. Accuracy     | 0.5507     |
+| Final Validation Box Loss  | 1.1941     |
+| Final Validation Cls Loss  | 1.5290     |
+| Final Validation DFL Loss  | 1.3453     |
 
 
 ## Ուսուցման պարամետրեր
