@@ -10,7 +10,7 @@
 pip install -q ultralytics tqdm lxml matplotlib albumentations
 
 
----
+
 ## Ուսուցման մետրիկաներ
 
 | Մետրիկա                    | Արժեք      |
